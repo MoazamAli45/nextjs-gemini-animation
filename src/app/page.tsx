@@ -31,7 +31,7 @@ export default function GoogleGeminiEffectDemo() {
       text: "with",
     },
     {
-      text: "TailwindCSS & Framer Motion",
+      text: "Next Js 14",
       className: "text-blue-500 dark:text-blue-500",
     },
   ];
